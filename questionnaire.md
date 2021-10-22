@@ -1,5 +1,5 @@
-#Timothy Lora
-###Chainalysis Questionnaire
+# Timothy Lora
+### Chainalysis Questionnaire
 
 1) Are there any sub-optimal choices (or short cuts taken due to limited time) in your implementation?
 <br/><br/>
